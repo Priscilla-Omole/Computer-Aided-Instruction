@@ -1,2 +1,4 @@
-public class varyingProblem {
+public class varyingProblem
+{
+    int z;
 }
